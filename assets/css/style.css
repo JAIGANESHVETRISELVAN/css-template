@@ -4,7 +4,7 @@
     
 }
 body{
-    background-image: url(/assets/images/pre.avif);
+    background-image: url(../images/pre.avif);
     background-repeat: no-repeat;
     background-size: cover;
 }
