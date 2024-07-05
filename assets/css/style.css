@@ -4,7 +4,7 @@
     
 }
 body{
-    background-image: url(../images/pre.avif);
+    background-image: url(../images/background.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -15,7 +15,7 @@ body{
     padding: 50px;
     justify-content: space-around;
     box-sizing: border-box;
-    color: aquamarine;
+    color: rgb(234, 126, 19);
     
 }
 .search{
@@ -27,7 +27,7 @@ body{
     
 }
 .nav li a{
-    color: aquamarine;
+    color: rgb(239, 111, 95);
   text-decoration: none;
 }
 .nav li{
